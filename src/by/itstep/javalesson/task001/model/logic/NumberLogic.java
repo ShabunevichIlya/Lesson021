@@ -10,7 +10,7 @@ public class NumberLogic {
         return a - b;
     }
 
-    public static int mui (int a, int b) {
+    public static int mul (int a, int b) {
         return a * b;
     }
 
